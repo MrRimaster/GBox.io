@@ -1,1 +1,3 @@
-# boxio
+# Box.io
+
+### Online io game
